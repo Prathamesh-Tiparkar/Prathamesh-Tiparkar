@@ -1,5 +1,6 @@
 # 💫 About Me:
-Engineering student building real-world software. Interested in web development, core CS fundamentals, and problem solving. National Level IdeaThon Finalist. Learning every day and shipping projects.
+Engineering student building real-world software. Interested in web development, core CS fundamentals, and problem solving. National Level IdeaThon Finalist. Learning every day and shipping programs. 
+आयुष्य खूप सुंदर आहे, फक्त Coding जमलं पाहिजे. 💻
 
 
 ## 🌐 Socials:
