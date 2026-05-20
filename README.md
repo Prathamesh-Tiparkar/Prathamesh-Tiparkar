@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Strong foundation in C, C++, and Java — learned from original creator resources.<br><br>Focused on system-level understanding, core concepts, and writing meaningful code over just syntax.
 
 
